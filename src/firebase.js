@@ -4,14 +4,7 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 let firebaseConfig = {
-    apiKey: "AIzaSyBTSSEDUQ9O875QzhdxExhv-O2_lYU9FXQ",
-    authDomain: "reactapp-11750.firebaseapp.com",
-    databaseURL: "https://reactapp-11750-default-rtdb.firebaseio.com",
-    projectId: "reactapp-11750",
-    storageBucket: "reactapp-11750.appspot.com",
-    messagingSenderId: "662176384648",
-    appId: "1:662176384648:web:8ba3cbebde221a6ace013d",
-    measurementId: "G-SXW3F67883"
+    
   };
 
 class Firebase{
